@@ -43,7 +43,7 @@ Add them as a library in the classpath of the project
 I opened the website, then take web elements, and then add them to the code using "Key Up" and "key Down":
 `keyDown(Keys.SHIFT)`and `keyUp(Keys.SHIFT)`
 
-and the code become like this:
+and the code becomes like this:
 
 ```md
 Actions action = new Actions(driver);
